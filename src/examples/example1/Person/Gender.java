@@ -1,4 +1,4 @@
-package com.example1.Person;
+package examples.example1.Person;
 
 public enum Gender {
     FEMALE,

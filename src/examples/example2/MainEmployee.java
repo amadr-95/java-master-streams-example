@@ -1,8 +1,8 @@
-package com.example2;
+package examples.example2;
 
-import com.example2.employee.Department;
-import com.example2.employee.Employee;
-import com.util.Utils;
+import examples.example2.employee.Department;
+import examples.example2.employee.Employee;
+import examples.util.Utils;
 
 import java.util.Comparator;
 import java.util.List;

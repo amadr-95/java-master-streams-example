@@ -1,4 +1,4 @@
-package com.example1.Person;
+package examples.example1.Person;
 
 public record Person(String name, int age, Gender gender) {
 

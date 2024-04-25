@@ -1,4 +1,4 @@
-package com.example2.employee;
+package examples.example2.employee;
 
 public enum Department {
     ACCOUNTING,

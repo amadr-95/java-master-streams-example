@@ -1,8 +1,8 @@
-package com.example1;
+package examples.example1;
 
-import com.example1.Person.Gender;
-import com.example1.Person.Person;
-import com.util.Utils;
+import examples.example1.Person.Gender;
+import examples.example1.Person.Person;
+import examples.util.Utils;
 
 import java.util.ArrayList;
 import java.util.Comparator;
