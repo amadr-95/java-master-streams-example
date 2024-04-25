@@ -7,4 +7,5 @@ in arrays, lists, sets, maps...
 
 ## Usual flow of work with Streams
 
-![img.png](src/resources/flowOfWork.png)
+![flowOfWork](https://github.com/amadr-95/java-master-streams-example/assets/122611230/fda5bcf8-0d23-4ee8-b29b-2c96b6738f8d)
+
